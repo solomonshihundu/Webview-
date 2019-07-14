@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="user_name">Name : Nancy Eshiwani</string>
+    <string name="profile_name">Nancy Eshiwani</string>
+    <string name="track">Track : Android</string>
+    <string name="country">Country : Kenya</string>
+    <string name="phone">Phone : +254700043611</string>
+    <string name="email">Email : eshiwanin@gmail.com</string>
+    <string name="slack">Slack : @nancyeshiwani</string>
+
+</resources>
